@@ -9,7 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-    let memes = "fresh" 
+    let memes = "fresh"
+
 
     override func viewDidLoad() {
         super.viewDidLoad()
